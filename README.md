@@ -30,11 +30,12 @@
 [<img align="left" alt="Android" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />]()
 
 
-<br />
 <br/>
-### Last side projects:
+<br/>
+## Last side projects:
+
 http://anbara.surge.sh/#/academy <br/>
-http://covid19-morocco.surge.sh/suivie
+http://covid19-morocco.surge.sh/suivie  
 <br />
 <br />
 
