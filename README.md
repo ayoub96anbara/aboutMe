@@ -27,7 +27,8 @@
 <br />
 <br/>
 ### Last side projects:
-http://anbara.surge.sh/#/academy
+http://anbara.surge.sh/#/academy <br/>
+http://covid19-morocco.surge.sh/suivie
 <br />
 <br />
 
