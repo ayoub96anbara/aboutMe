@@ -37,6 +37,7 @@
 http://anbara.surge.sh/#/academy <br/>
 http://covid19-morocco.surge.sh/suivie  <br>
 http://timestamps.surge.sh/
+https://ayoub96anbara.github.io/ng8-pixabay-api-search/gallery
 <br />
 <br />
 
