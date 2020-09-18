@@ -36,9 +36,9 @@
 
 http://anbara.surge.sh/#/academy <br/>
 http://covid19-morocco.surge.sh/suivie  <br>
-http://timestamps.surge.sh/
-https://ayoub96anbara.github.io/ng8-pixabay-api-search/gallery
-https://play.google.com/store/apps/developer?id=developer+4you
+http://timestamps.surge.sh/     <br>
+https://ayoub96anbara.github.io/ng8-pixabay-api-search/gallery   <br>
+https://play.google.com/store/apps/developer?id=developer+4you   
 <br />
 <br />
 
