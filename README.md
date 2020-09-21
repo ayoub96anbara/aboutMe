@@ -32,8 +32,12 @@
 <br/>
 <br/>
 ### Last side projects:
+</br>
+medical App:
+web app: http://medical-app.surge.sh    </br>
+mobile app: https://play.google.com/store/apps/details?id=medical.office.app </br>
 
-http://medical-app.surge.sh    <br>
+------------
 http://anbara.surge.sh/#/academy <br/>
 http://covid19-morocco.surge.sh/suivie     code source: https://gitlab.com/ayoub1996anbara/covid19-beck-end <br>
 http://timestamps.surge.sh/     <br>
