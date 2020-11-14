@@ -39,6 +39,7 @@ mobile app: https://play.google.com/store/apps/details?id=medical.office.app </b
 
 ------------
 http://anbara.surge.sh/#/academy <br/>
+https://github.com/ayoub96anbara/sites-recrute <br/>
 http://covid19-morocco.surge.sh/suivie     code source: https://gitlab.com/ayoub1996anbara/covid19-beck-end <br>
 http://timestamps.surge.sh/     <br>
 https://ayoub96anbara.github.io/ng8-pixabay-api-search/gallery   <br>
