@@ -1,7 +1,6 @@
 ### Hi there, I'm Ayoub Anbara 👋
 
 ## I'm a Java Jee-spring/Angular Developer
-- 🔭 I’m currently working as a freelancer !
 
 
 ### Connect with me:
