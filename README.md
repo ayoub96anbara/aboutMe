@@ -33,11 +33,11 @@ I'm a Java Jee-spring/Angular/Mobile Developer
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ayoub96anbara&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 <br/>
 <br/>
-#### Languages
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+### Languages
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" width="35px">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Tools and Frameworks
+### Tools and Frameworks
 <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,9 +47,9 @@ I'm a Java Jee-spring/Angular/Mobile Developer
 <br/>
 <br/>
 
-<a href="https://github.com/iampawan">
+
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub96anbara&theme=light&hide_langs_below=1" />
-</a>
+
 
 - 🔭 I’m currently working on Spring-Angular
 - 🌱 I’m currently learning Javascript
@@ -57,8 +57,9 @@ I'm a Java Jee-spring/Angular/Mobile Developer
 <br/>
 <br/>
 ### Last side projects:
-</br>
-## medical App: </br>
+
+## medical App: 
+
 web app: http://medical-app.surge.sh    </br>
 mobile app: https://play.google.com/store/apps/details?id=medical.office.app </br>
 
@@ -71,21 +72,5 @@ https://ayoub96anbara.github.io/ng8-pixabay-api-search/gallery   <br>
 https://play.google.com/store/apps/developer?id=developer+4you   
 <br />
 <br />
-## ---------------------
-
-
-
-
-### Languages and Tools:
-
-[<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />]()
-[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />]()
-[<img align="left" alt="Spring" width="26px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />]()
-[<img align="left" alt="Angular" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" />]()
-[<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />]()
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="Android" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />]()
 
 
