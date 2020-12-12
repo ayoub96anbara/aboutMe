@@ -5,7 +5,7 @@
 I'm a Java Jee-spring/Angular/Mobile Developer
 <br/>
 
-Connect with me:
+# Connect with me:
 
 <a href="https://stackoverflow.com/users/9967174">
   <img align="left" alt="stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
@@ -19,21 +19,19 @@ Connect with me:
 <a href="https://www.freelancer.com/u/ayoub1996anbara">
 <img align="left" alt="freelancer.com" width="22px" src="https://cdn.worldvectorlogo.com/logos/freelancer-1.svg" />
 </a>
-  
- <a href="https://mostaql.com/u/ayoub_anbara">
+<a href="https://mostaql.com/u/ayoub_anbara">
  <img align="left" alt="mostaql" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROiy2_BhQ4hE_htex-Ujh_tvrP4lfGHTQTag&usqp=CAU" />
-  </a>
-
+</a>
 <a href="https://khamsat.com/user/%D8%A7%D9%8A%D9%88%D8%A8-%D8%B9%D9%86%D8%A8%D8%B1%D8%A9">
 <img align="left" alt="mostaql" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROiy2_BhQ4hE_htex-Ujh_tvrP4lfGHTQTag&usqp=CAU" />
- </a>
+</a>
 
 
 <br/>
 <br/>
 <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ayoub96anbara&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-
+<br/>
 #### Languages
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/kotlin/kotlin-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -77,7 +75,6 @@ https://play.google.com/store/apps/developer?id=developer+4you
 ## ---------------------
 
 
-### Hi there, I'm Ayoub Anbara 👋
 
 
 ### Languages and Tools:
@@ -93,10 +90,3 @@ https://play.google.com/store/apps/developer?id=developer+4you
 [<img align="left" alt="Android" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />]()
 
 
-
-
-
-
-
-
-<img align="left" alt="ayoub anbara's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ayoub96anbara&show_icons=true&hide_border=true" />
