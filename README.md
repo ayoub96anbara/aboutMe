@@ -1,22 +1,23 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-## Hey, I'm [Anbara Ayoub!](http://anbara.surge.sh/#/academy) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=burhanrashid52&label=Views&color=blue&style=plastic" alt="anbara ayoub" /> </a>
+## Hey, I'm [Anbara Ayoub!](http://anbara.surge.sh/#/academy) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub96anbara&label=Views&color=blue&style=plastic" alt="anbara ayoub" /> </a>
 
 I'm a Java Jee-spring/Angular Developer
 <br/>
 
-
-
 Connect with me:
 
-<a href="https://twitter.com/burhanrashid52">
-  <img align="left" alt="Burhanuddin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a><a href="https://www.linkedin.com/in/burhanuddin-rashid-a16959b1">
-  <img align="left" alt="Burhanuddin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a><a href="https://instagram.com/burhanrashid52/">
+<a href="https://stackoverflow.com/users/9967174">
+  <img align="left" alt="stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ayoub-anbara-2372aa179/">
+  <img align="left" alt="anbara ayoub Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://instagram.com/burhanrashid52/">
   <img align="left" alt="Burhanuddin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a><a href="https://facebook.com/burhanrashid5253">
-  <img align="left" alt="Burhanuddin's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.facebook.com/ayoub.anbara.9/">
+  <img align="left" alt="anbara ayoub Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <a href="https://www.freelancer.com/u/ayoub1996anbara">
@@ -29,11 +30,8 @@ Connect with me:
 
 <a href="https://khamsat.com/user/%D8%A7%D9%8A%D9%88%D8%A8-%D8%B9%D9%86%D8%A8%D8%B1%D8%A9">
 <img align="left" alt="mostaql" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROiy2_BhQ4hE_htex-Ujh_tvrP4lfGHTQTag&usqp=CAU" />
-  </a>
-  
-  
-[<img align="left" alt="stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/9967174)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ayoub-anbara-2372aa179/)
+ </a>
+
 
 <br/>
 <br/>
