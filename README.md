@@ -2,7 +2,7 @@
 
 ## Hey, I'm [Anbara Ayoub!](http://anbara.surge.sh/#/academy) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub96anbara&label=Views&color=blue&style=plastic" alt="anbara ayoub" /> </a>
 
-I'm a Java Jee-spring/Angular Developer
+I'm a Java Jee-spring/Angular/Mobile Developer
 <br/>
 
 Connect with me:
@@ -13,13 +13,9 @@ Connect with me:
 <a href="https://www.linkedin.com/in/ayoub-anbara-2372aa179/">
   <img align="left" alt="anbara ayoub Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://instagram.com/burhanrashid52/">
-  <img align="left" alt="Burhanuddin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="https://www.facebook.com/ayoub.anbara.9/">
   <img align="left" alt="anbara ayoub Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
 <a href="https://www.freelancer.com/u/ayoub1996anbara">
 <img align="left" alt="freelancer.com" width="22px" src="https://cdn.worldvectorlogo.com/logos/freelancer-1.svg" />
 </a>
@@ -36,7 +32,7 @@ Connect with me:
 <br/>
 <br/>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=burhanrashid52&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ayoub96anbara&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
 #### Languages
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -55,18 +51,29 @@ Connect with me:
 <br/>
 
 <a href="https://github.com/iampawan">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanrashid52&theme=light&hide_langs_below=1" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub96anbara&theme=light&hide_langs_below=1" />
 </a>
 
-- 🔭 I’m currently working on React
+- 🔭 I’m currently working on Spring-Angular
 - 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on Mobile Project
-- 🤔 I’m looking for help with my open source projects
-- 💬 Apart from tech you can Ask me about Movies, TV Shows and Books
-- 📫 How to reach me at burhanrashid5253@gmail.com
-- ⚡ Fun fact: I can mentally be present in a meeting for 45-60 minutes.
+- 👯 I’m looking to collaborate on Web & Mobile Project
+<br/>
+<br/>
+### Last side projects:
+</br>
+## medical App: </br>
+web app: http://medical-app.surge.sh    </br>
+mobile app: https://play.google.com/store/apps/details?id=medical.office.app </br>
 
-
+------------
+http://anbara.surge.sh/#/academy <br/>
+https://github.com/ayoub96anbara/sites-recrute <br/>
+http://covid19-morocco.surge.sh/suivie     code source: https://gitlab.com/ayoub1996anbara/covid19-beck-end <br>
+http://timestamps.surge.sh/     <br>
+https://ayoub96anbara.github.io/ng8-pixabay-api-search/gallery   <br>
+https://play.google.com/store/apps/developer?id=developer+4you   
+<br />
+<br />
 ## ---------------------
 
 
@@ -86,23 +93,7 @@ Connect with me:
 [<img align="left" alt="Android" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />]()
 
 
-<br/>
-<br/>
-### Last side projects:
-</br>
-## medical App: </br>
-web app: http://medical-app.surge.sh    </br>
-mobile app: https://play.google.com/store/apps/details?id=medical.office.app </br>
 
-------------
-http://anbara.surge.sh/#/academy <br/>
-https://github.com/ayoub96anbara/sites-recrute <br/>
-http://covid19-morocco.surge.sh/suivie     code source: https://gitlab.com/ayoub1996anbara/covid19-beck-end <br>
-http://timestamps.surge.sh/     <br>
-https://ayoub96anbara.github.io/ng8-pixabay-api-search/gallery   <br>
-https://play.google.com/store/apps/developer?id=developer+4you   
-<br />
-<br />
 
 
 
