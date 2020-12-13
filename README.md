@@ -38,9 +38,11 @@ I'm a Java Jee-spring/Angular/Mobile Developer
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Tools and Frameworks
+<img src="https://user-images.githubusercontent.com/196336/56349437-d7008600-61c8-11e9-8f68-d3e3e30d298c.png"
+width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/jetbrains/jetbrains-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -48,11 +50,10 @@ I'm a Java Jee-spring/Angular/Mobile Developer
 <br/>
 
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub96anbara&theme=light&hide_langs_below=1" />
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub96anbara&theme=light&hide_langs_below=1" /> -->
 
 
 - 🔭 I’m currently working on Spring-Angular
-- 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Web & Mobile Project
 <br/>
 <br/>
