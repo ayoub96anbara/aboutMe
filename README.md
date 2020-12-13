@@ -2,7 +2,7 @@
 
 ## Hey, I'm [Anbara Ayoub!](http://anbara.surge.sh/#/academy) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=ayoub96anbara&label=Views&color=blue&style=plastic" alt="anbara ayoub" /> </a>
 
-I'm a Java Jee-spring/Angular/Mobile Developer
+I'm a Java J2E-spring/Angular/Mobile Developer
 <br/>
 
 # Connect with me:
@@ -30,7 +30,7 @@ I'm a Java Jee-spring/Angular/Mobile Developer
 <br/>
 <br/>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ayoub96anbara&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ayoub96anbara&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 <br/>
 <br/>
 ### Languages
@@ -40,11 +40,15 @@ I'm a Java Jee-spring/Angular/Mobile Developer
 ### Tools and Frameworks
 <img src="https://user-images.githubusercontent.com/196336/56349437-d7008600-61c8-11e9-8f68-d3e3e30d298c.png"
 width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg"
+width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/jetbrains/jetbrains-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/vorillaz/devicons/blob/master/!SVG/eclipse.svg"
+width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br/>
 <br/>
