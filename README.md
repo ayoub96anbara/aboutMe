@@ -65,8 +65,8 @@ width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## medical App: 
 
-web app: http://medical-app.surge.sh    </br>
-mobile app: https://play.google.com/store/apps/details?id=medical.office.app </br>
+http://medicalappdoc.surge.sh/
+</br>
 
 ------------
 http://anbara.surge.sh/#/academy <br/>
